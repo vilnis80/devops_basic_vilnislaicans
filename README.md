@@ -1,1 +1,2 @@
-# devops_basic_vilnislaicans
+# DevOps repozitorijs
+Vilnis Laicāns DevOps repozitorijs pamati iesācējiem
